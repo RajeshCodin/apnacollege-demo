@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is my First Git Repository
 <br>
-Author - Rajesh Singh
+Author - Rajesh Singh Maniac
